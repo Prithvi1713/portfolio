@@ -11,7 +11,7 @@ You need to write the following commands on the terminal screen(in vscode) so th
 ## Video 
 
 ```bash
-  git clone "https://github.com/chetannada/My-Portfolio.git"
+  git clone "https://github.com/Prithvi1713/portfolio.git"
 ```
 Go to the project directory
 
